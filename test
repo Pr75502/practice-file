@@ -1,0 +1,16 @@
+# Initialize a new Git repository
+```bash
+git init
+
+# Add your files to the repository
+git add .
+
+# Commit your changes
+git commit -m "Initial commit"
+
+# Add the remote repository URL
+git remote add origin https://github.com/your-username/your-repository.git
+
+# Push your changes to the remote repository
+git push -u origin master
+```
